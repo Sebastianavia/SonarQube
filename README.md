@@ -32,7 +32,8 @@ Ejecutaremos docker compose up para levantar los contenedores.
 Contenedores:
 </p>
 
-![alt text](image.png)
+![image](https://github.com/Sebastianavia/SonarQube/assets/71205906/ebace205-5a5e-4a25-96aa-352613f61656)
+
 ---
 
 Ingresamos a SonarQube a través de la URL `localhost:9000`. Las credenciales de autenticación predeterminadas son:
